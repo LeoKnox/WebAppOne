@@ -1,0 +1,17 @@
+{
+  "ProjectFilePath": "/Users/Aelien/Documents/c#/WebApplication1/WebApplication1.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      },
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  }
+}
